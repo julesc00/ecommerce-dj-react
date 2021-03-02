@@ -13,3 +13,19 @@ C
 base/admin.py,9/7/975371957ebd8f6a90ec2d9cb4acbde7726d3523
 C
 base/serializers.py,8/8/88a62861a735ba7ea2377ce705e867089b723365
+G
+base/urls/users_urls.py,f/8/f8268742ccb6bf49b65fd01d0ba4f5aaeeb3f808
+?
+base/signals.py,1/a/1a48ebeccd89f8db4b25373f01a54b614bbc59d5
+J
+base/urls/products_urls.py,7/9/79ade08af605fa6785c6bf995188c226b8d4c3e2
+K
+base/views/product_views.py,1/b/1b9e5a16c84548516789a820589ee3b31a819fe0
+>
+base/views.bak,c/0/c04da749742ae2b18b9470873acb3014acfb7bfd
+I
+base/views/order_views.py,9/d/9dd7655f5b99fb0b6c833007d514e4b9a3e9fed7
+H
+base/urls/orders_urls.py,0/7/078c8afc8fb74f2a18c5c683b270a6fea6142ad1
+H
+base/views/user_views.py,7/4/74b73edd60cfde4b3033b61a6f1be4f7d9d82868
